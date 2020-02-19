@@ -1,0 +1,5 @@
+
+//2020.2.18 18:15
+so,I have some discussions with rebecca and finish the part of editMenu method,
+more specific is how to change the Username, firstname and lastname.if there are
+any errors with this part, let me know!
